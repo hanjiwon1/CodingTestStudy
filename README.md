@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/55871242/120599570-a6e8cf80-c482-11eb-83d6-263cbbdaf8c8.png"> </h1>
+<h1 align="center"> <img src="https://github.com/Heongilee/CodingTestStudy/blob/master/assets/black.gif?raw=true" width=300 height=300> </h1>
 
 -----
 
