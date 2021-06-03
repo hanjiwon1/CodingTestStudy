@@ -6,7 +6,7 @@
 
 ### **규칙**
 * 한 주에 3개 문제 풀이 (팀원들이 추천한 문제들을 토대로 매주 3개의 문제를 선정, 해당 주차의 문제는 하단에 `📅일정표` 참고)
-* 문제 선정 범위는 우선은 [BaekJoon](https://www.acmicpc.net/) [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges), [LeetCode](https://leetcode.com/)로 하겠습니다. (더욱 괜찮은 사이트 있으면 추천 부탁드립니다!)
+* 문제 선정 범위는 우선은 [BaekJoon](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges), [LeetCode](https://leetcode.com/)로 하겠습니다. (더욱 괜찮은 사이트 있으면 추천 부탁드립니다!)
 * Pull Request로 자신이 푼 문제를 업로드 하고, 커밋 메시지는 문제이름으로 통일 (예 : 벽돌깨기, 대기업 승범이네)
 * 개인 코드는 본인의 :octocat:`깃허브 아이디`를 이름으로 폴더로 만들어서 관리해주세요.
 * 비정기적으로 백준 연습 시스템을 이용한 코딩 대회도 만들면 좋을 것 같습니다. (2시간에 3문제 잡고 문제 풀고 즉석에서 코드리뷰 진행)
