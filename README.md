@@ -42,7 +42,7 @@
 ## **📅 일정표 (06.04 ~ 매주 3문제)**
 | |1|2|3|
 |:-:|:-:|:-:|:-:|
-|0주차()|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)||
+|0주차()|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
 |1주차(06.07~06.13)|||
 
 -----
