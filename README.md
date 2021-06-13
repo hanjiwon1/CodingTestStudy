@@ -1,4 +1,5 @@
-## **공지📢**
+<!-- 
+## **공지📢** 
 
 ```
 라벨🏷️ 권한이 없어서 사용을 못하고 계신다는 의견이 있던데 다른분도 PR 올리실 때 라벨🏷️ 사용이 안된다면 저에게 알려주세요!
@@ -6,6 +7,7 @@
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/55871242/121137474-a2049100-c871-11eb-85a3-ff381eb7cf1d.png"> </h1>
 
 -----
+-->
 <h1 align="center"> <img src="https://github.com/Heongilee/CodingTestStudy/blob/master/assets/black.gif?raw=true" width=300 height=300> </h1>
 
 -----
