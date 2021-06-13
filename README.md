@@ -1,4 +1,5 @@
-## **공지📢**
+<!-- 
+## **공지📢** 
 
 ```
 라벨🏷️ 권한이 없어서 사용을 못하고 계신다는 의견이 있던데 다른분도 PR 올리실 때 라벨🏷️ 사용이 안된다면 저에게 알려주세요!
@@ -6,6 +7,7 @@
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/55871242/121137474-a2049100-c871-11eb-85a3-ff381eb7cf1d.png"> </h1>
 
 -----
+-->
 <h1 align="center"> <img src="https://github.com/Heongilee/CodingTestStudy/blob/master/assets/black.gif?raw=true" width=300 height=300> </h1>
 
 -----
@@ -53,6 +55,7 @@
 |:-:|:-:|:-:|:-:|
 |0주차(06.04~06.06)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
 |1주차(06.07~06.13)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[캠핑](https://www.acmicpc.net/problem/4796)|[용돈관리](https://www.acmicpc.net/problem/6236)|
+|2주차(06.14~06.20)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|||
 
 -----
 ## **💻 문제 목록**
