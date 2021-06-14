@@ -53,9 +53,9 @@
 ## **📅 일정표 (06.04 ~ 매주 3문제)**
 | |1|2|3|
 |:-:|:-:|:-:|:-:|
-|0주차(06.04~06.06)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
-|1주차(06.07~06.13)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[캠핑](https://www.acmicpc.net/problem/4796)|[용돈관리](https://www.acmicpc.net/problem/6236)|
 |2주차(06.14~06.20)|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|[토마토](https://www.acmicpc.net/problem/7569)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|
+|1주차(06.07~06.13)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[캠핑](https://www.acmicpc.net/problem/4796)|[용돈관리](https://www.acmicpc.net/problem/6236)|
+|0주차(06.04~06.06)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
 
 -----
 ## **💻 문제 목록**
